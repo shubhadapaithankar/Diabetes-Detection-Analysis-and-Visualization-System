@@ -1,6 +1,7 @@
 # Diabetes-Detection-Analysis-and-Visualization-System
 Diabetes Detection, Analysis, and Visualization System
 
+### [Notebook](https://github.com/shubhadapaithankar/Diabetes-Detection-Analysis-and-Visualization-System/blob/main/Diabetes_Detection_Analysis.ipynb)
 ## Team information  :
 
 ### Group-3
