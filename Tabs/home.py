@@ -10,7 +10,25 @@ def app():
     st.title("Diabetes Detection, Analysis, & System")
 
     # Add image to the home page
-    st.image("./images/home.png")
+    st.image("./images/diabetes.png")
+
+    image_url = "./images/home.png"
+    st.markdown(
+        f"""
+        <style>
+        body {{
+            background-image: "./images/home.png";
+            background-size: cover;
+            background-repeat: no-repeat;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+# Replace the URL below with the URL of your background image
+    
+
 
     # Add brief describtion of your web app
     st.markdown(
