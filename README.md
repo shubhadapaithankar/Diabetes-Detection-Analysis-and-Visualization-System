@@ -7,6 +7,8 @@ Diabetes Detection, Analysis, and Visualization System
 <img  src="https://user-images.githubusercontent.com/99461999/235387964-903124b5-f217-4206-a82a-88ba955bc6bf.png" width="330" height="190">
 <img src="https://user-images.githubusercontent.com/99461999/235387973-325f320a-8cf3-4be0-b00a-9a53c87c2529.png" width="330" height="190">
 <img  src="https://user-images.githubusercontent.com/99461999/235387996-95e20c11-314d-4b61-b12b-68b8f900a6ba.png" width="330" height="190">
+<img  src="https://user-images.githubusercontent.com/99461999/235388440-fa65b3e8-3705-41f6-8845-2102af2c45e7.png"  width="330" height="190" >
+
 </p>
 
 
