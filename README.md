@@ -1,6 +1,16 @@
 # Diabetes-Detection-Analysis-and-Visualization-System
 Diabetes Detection, Analysis, and Visualization System
 
+## Web App Snippet:
+<p float="left">
+<img src="https://user-images.githubusercontent.com/99461999/235387948-4cfa289f-5576-4068-aac8-0701c690f43b.png" width="330" height="190">
+<img  src="https://user-images.githubusercontent.com/99461999/235387964-903124b5-f217-4206-a82a-88ba955bc6bf.png" width="330" height="190">
+<img src="https://user-images.githubusercontent.com/99461999/235387973-325f320a-8cf3-4be0-b00a-9a53c87c2529.png" width="330" height="190">
+<img  src="https://user-images.githubusercontent.com/99461999/235387996-95e20c11-314d-4b61-b12b-68b8f900a6ba.png" width="330" height="190">
+</p>
+
+
+
 ### [Notebook](https://github.com/shubhadapaithankar/Diabetes-Detection-Analysis-and-Visualization-System/blob/main/Diabetes_Detection_Analysis.ipynb)
 ### [Application_demo](https://youtu.be/XlZFtiCdfFc)
 
