@@ -1,5 +1,5 @@
 # Diabetes Detection, Analysis, and Visualization System
-
+### [Application_URL](https://shubhadapaithankar-diabetes-detection-analysis-and--main-vzgv5v.streamlit.app/)
 ### [Notebook](https://github.com/shubhadapaithankar/Diabetes-Detection-Analysis-and-Visualization-System/blob/main/Diabetes_Detection_Analysis.ipynb)
 ### [Application_demo](https://youtu.be/XlZFtiCdfFc)
 
